@@ -1,0 +1,21 @@
+[2020-04-03 21:58:06] [INFORMACIÓN] Iniciando Servidor 
+[2020-04-03 21:58:06] [INFORMACIÓN] Servidor Iniciado 
+[2020-04-03 21:58:10] [INFORMACIÓN] Cliente Conectado -> 127.0.0.1:51347 
+[2020-04-03 21:58:12] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:15] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:15] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:15] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:18] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:18] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:20] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:24] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:24] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:24] [INFORMACIÓN] Mensaje guardado en cola. 
+[2020-04-03 21:58:24] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:26] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:26] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:26] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51347 
+[2020-04-03 21:58:29] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51347 
+[2020-04-03 21:58:29] [INFORMACIÓN] Cliente Desconectado -> 127.0.0.1:51347 
+[2020-04-03 21:58:38] [INFORMACIÓN] Cliente Conectado -> 127.0.0.1:51354 
+[2020-04-03 22:01:52] [INFORMACIÓN] Cliente Desconectado -> 127.0.0.1:51354 

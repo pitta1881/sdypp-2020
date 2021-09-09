@@ -1,0 +1,28 @@
+[2020-04-03 22:01:45] [INFORMACIÓN] Iniciando Servidor 
+[2020-04-03 22:01:46] [GRAVE] Servidor No Iniciado. El puerto 10000 ya está en uso. 
+[2020-04-03 22:01:46] [INFORMACIÓN] Servidor Terminado 
+[2020-04-03 22:01:59] [INFORMACIÓN] Iniciando Servidor 
+[2020-04-03 22:01:59] [GRAVE] Servidor No Iniciado. El puerto 10000 ya está en uso. 
+[2020-04-03 22:01:59] [INFORMACIÓN] Servidor Terminado 
+[2020-04-03 22:02:15] [INFORMACIÓN] Iniciando Servidor 
+[2020-04-03 22:02:15] [INFORMACIÓN] Servidor Iniciado 
+[2020-04-03 22:02:18] [INFORMACIÓN] Cliente Conectado -> 127.0.0.1:51421 
+[2020-04-03 22:02:21] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:23] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:23] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:23] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:23] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:26] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:30] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:30] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:30] [INFORMACIÓN] Mensaje guardado en cola. 
+[2020-04-03 22:02:30] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:30] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:32] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:32] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:32] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:34] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:34] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:34] [INFORMACIÓN] Mensaje Enviado a 127.0.0.1:51421 
+[2020-04-03 22:02:36] [INFORMACIÓN] Mensaje Recibido de 127.0.0.1:51421 
+[2020-04-03 22:02:36] [INFORMACIÓN] Cliente Desconectado -> 127.0.0.1:51421 

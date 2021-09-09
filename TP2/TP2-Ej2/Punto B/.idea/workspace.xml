@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bed67a77-9ccb-4ec1-ab85-ab6b1e87d6fb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1aMSbnYlC4brNvbhytlHpL5gSxW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../TP2-Ej4/Punto A/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ServerSide" />
+      <recent name="ClientSide" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PATO\UNIV\2020\Sistemas Distribuidos y Paralelos\Grupal\SDYPP 2020\TP2\TP2-Ej2\src\main\java\ClientSide" />
+      <recent name="D:\PATO\UNIV\2020\Sistemas Distribuidos y Paralelos\Grupal\SDYPP 2020\TP2\TP2-Ej2\src\main\java\ServerSide" />
+      <recent name="D:\PATO\UNIV\2020\Sistemas Distribuidos y Paralelos\Grupal\SDYPP 2020\TP2\TP2-Ej2\src\main\java" />
+      <recent name="D:\PATO\UNIV\2020\Sistemas Distribuidos y Paralelos\Grupal\SDYPP 2020\TP2\TP2-Ej2\src\main\java\log" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClienteMain">
+    <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientSide.Client" />
+      <module name="TP2-Ej2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientSide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientAuto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientSide.ClientAuto" />
+      <module name="TP2-Ej2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientSide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClientSide.ClienteMain" />
+      <module name="TP2-Ej2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClientSide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ServerSide.ServerMain" />
+      <module name="TP2-Ej2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ServerSide.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ClientAuto" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.ClienteMain" />
+      <item itemvalue="Application.ServerMain" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClienteMain" />
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="Application.ClientAuto" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed67a77-9ccb-4ec1-ab85-ab6b1e87d6fb" name="Default Changelist" comment="" />
+      <created>1586544043746</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586544043746</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="657" y="139" key="#ClienteMain" timestamp="1590177105023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="139" key="#ClienteMain/0.0.1920.1040@0.0.1920.1040" timestamp="1590177105023" />
+    <state x="845" y="382" width="467" height="275" key="#Notifications" timestamp="1586548933995">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="382" width="467" height="275" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1586548933995" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1586544085812">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1586544085812" />
+    <state x="657" y="139" key="#ServerMain" timestamp="1590177093328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="139" key="#ServerMain/0.0.1920.1040@0.0.1920.1040" timestamp="1590177093328" />
+    <state x="828" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586643849415">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586643849415" />
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser" timestamp="1588723054739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="226" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588723054739" />
+    <state x="1230" y="300" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1586554887408">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1230" y="300" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586554887408" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1590177265868">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1590177265868" />
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom" timestamp="1590177117287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590177117287" />
+    <state width="1877" height="356" key="GridCell.Tab.0.center" timestamp="1590177117287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590177117287" />
+    <state width="1877" height="356" key="GridCell.Tab.0.left" timestamp="1590177117287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590177117287" />
+    <state width="1877" height="356" key="GridCell.Tab.0.right" timestamp="1590177117287">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="356" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590177117287" />
+    <state x="970" y="174" key="Maven.ArtifactSearchDialog" timestamp="1586555171983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="970" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586555171983" />
+    <state x="625" y="279" key="NewModule_or_Project.wizard" timestamp="1588729703953">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="279" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588729703953" />
+    <state x="494" y="59" key="SettingsEditor" timestamp="1587072391438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="494" y="59" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587072391438" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1588711762636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1588711762636" />
+    <state x="1070" y="461" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1586555113727">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1070" y="461" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1586555113727" />
+    <state x="667" y="122" width="585" height="795" key="find.popup" timestamp="1586552828251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="122" width="585" height="795" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586552828251" />
+    <state x="342" y="180" key="new project wizard" timestamp="1587162243019">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587162243019" />
+    <state x="801" y="277" key="refactoring.ChangeSignatureDialog" timestamp="1588806007898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="801" y="277" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588806007898" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588725688552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588725688552" />
+  </component>
+</project>

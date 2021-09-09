@@ -1,0 +1,7 @@
+cliente\Cliente.class
+RMI\RemoteInterface.class
+servidor\ServidorImpl.class
+log\Log.class
+sobel\OperadorSobel.class
+servidor\Servidor.class
+log\logVolatil.class

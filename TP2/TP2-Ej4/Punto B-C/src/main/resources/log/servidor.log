@@ -1,0 +1,988 @@
+[2020-05-21 19:13:41] [INFORMACIÃ“N] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:14:35] [INFORMACIÃ“N] Cliente conectado : 127.0.0.1:49167 
+[2020-05-21 19:14:35] [INFORMACIÃ“N] El cliente ingreso : 2 a procesar la imagen. 
+[2020-05-21 19:14:35] [INFORMACIÃ“N] Se necesitarÃ¡n : 9003 PROCESOS 
+[2020-05-21 19:14:35] [INFORMACIÃ“N] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Registrando en puerto : 9001 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Registrando en puerto : 9002 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Estado del puerto :9001 es :OK 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Forzando la falla de un proceso 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Estado del puerto :9002 es :FALLA 
+[2020-05-21 19:14:36] [INFORMACIÃ“N] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:20:02] [INFORMACIÃ“N] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:20:11] [INFORMACIÃ“N] Cliente conectado : 127.0.0.1:49203 
+[2020-05-21 19:20:11] [INFORMACIÃ“N] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:20:11] [INFORMACIÃ“N] Se necesitarÃ¡n : 4 PROCESOS 
+[2020-05-21 19:20:11] [INFORMACIÃ“N] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Registrando en puerto : 9001 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Registrando en puerto : 9002 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Registrando en puerto : 9003 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Registrando en puerto : 9004 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Estado del puerto :9001 es :OK 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Forzando la falla de un proceso 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Estado del puerto :9002 es :FALLA 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Proceso auxiliar en port: 9005 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Se proceso la parte: 1 de la imagen 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Estado del puerto :9003 es :OK 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Estado del puerto :9004 es :OK 
+[2020-05-21 19:20:12] [INFORMACIÃ“N] Finalizo de procesar la imagen 
+[2020-05-21 19:28:13] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:29:50] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:30:06] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49289 
+[2020-05-21 19:30:06] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:30:06] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 19:30:06] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:30:07] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:30:07] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:30:07] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:30:07] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:30:07] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:30:07] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 19:30:07] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 19:30:07] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:30:07] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:30:07] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:30:07] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:30:07] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 19:30:07] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:30:07] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 19:30:07] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 19:30:07] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:38:15] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:38:29] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49346 
+[2020-05-21 19:38:29] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:38:29] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 19:38:29] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:38:30] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:38:30] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:38:30] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:38:30] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:38:30] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:38:30] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 19:38:30] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 19:38:30] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:38:30] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:38:30] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:38:30] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:38:30] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 19:38:30] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:38:30] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 19:38:30] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 19:38:30] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:43:27] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:43:33] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49382 
+[2020-05-21 19:43:33] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:43:33] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 19:43:33] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:43:34] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:43:34] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:43:34] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:43:34] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:43:34] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:43:34] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 19:43:34] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 19:43:34] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:43:34] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:43:34] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:43:34] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:43:34] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 19:43:34] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:43:34] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 19:43:34] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 19:43:34] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:44:52] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:45:01] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49395 
+[2020-05-21 19:45:01] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:45:01] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 19:45:01] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:45:02] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:45:02] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:45:02] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:45:02] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:45:02] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:45:02] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 19:45:02] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 19:45:02] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:45:02] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:45:02] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:45:02] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:45:02] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 19:45:02] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:45:02] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 19:45:02] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 19:45:02] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:51:03] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:51:15] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49455 
+[2020-05-21 19:51:15] [INFORMACIÓN] El cliente desea procesar la imagen en  : 2 partes. 
+[2020-05-21 19:51:15] [INFORMACIÓN] Se necesitarán : 2 PROCESOS 
+[2020-05-21 19:51:15] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:51:16] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:51:16] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:51:16] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:51:16] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:51:16] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:51:16] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:51:16] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:51:16] [INFORMACIÓN] Proceso auxiliar en port: 9003 
+[2020-05-21 19:51:16] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:51:16] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:52:23] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:52:29] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49468 
+[2020-05-21 19:52:29] [INFORMACIÓN] El cliente desea procesar la imagen en  : 2 partes. 
+[2020-05-21 19:52:29] [INFORMACIÓN] Se necesitarán : 2 PROCESOS 
+[2020-05-21 19:52:29] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:52:30] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:52:30] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:52:30] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:52:30] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:52:30] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:52:30] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:52:30] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:52:30] [INFORMACIÓN] Proceso auxiliar en port: 9003 
+[2020-05-21 19:52:30] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:52:30] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:55:45] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:55:51] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49496 
+[2020-05-21 19:55:51] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:55:51] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 19:55:51] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:55:52] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:55:52] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:55:52] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:55:52] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:55:52] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:55:52] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 19:55:52] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 19:55:52] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:55:52] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:55:52] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:55:52] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:55:52] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 19:55:52] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:55:52] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 19:55:52] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 19:55:52] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 19:59:13] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 19:59:18] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49542 
+[2020-05-21 19:59:18] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 19:59:18] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 19:59:18] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 19:59:19] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 19:59:19] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 19:59:19] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 19:59:19] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 19:59:19] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 19:59:19] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 19:59:19] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 19:59:19] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 19:59:19] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 19:59:19] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 19:59:19] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 19:59:19] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 19:59:19] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 19:59:19] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 19:59:19] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 19:59:19] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 20:02:07] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 20:02:23] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49643 
+[2020-05-21 20:02:23] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 20:02:23] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 20:02:23] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 20:02:24] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 20:02:24] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 20:02:24] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 20:02:24] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 20:02:24] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 20:02:24] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 20:02:24] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 20:02:24] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 20:02:24] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 20:02:24] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 20:02:24] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 20:02:24] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 20:02:24] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 20:02:24] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 20:02:24] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 20:02:24] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 20:03:39] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 20:03:47] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49672 
+[2020-05-21 20:03:47] [INFORMACIÓN] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-21 20:03:47] [INFORMACIÓN] Se necesitarán : 4 PROCESOS 
+[2020-05-21 20:03:47] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 20:03:48] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 20:03:48] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 20:03:48] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 20:03:48] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 20:03:48] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 20:03:48] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 20:03:48] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 20:03:48] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 20:03:48] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 20:03:48] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 20:03:48] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 20:03:48] [INFORMACIÓN] Proceso auxiliar en port: 9005 
+[2020-05-21 20:03:48] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 20:03:48] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 20:03:48] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 20:03:48] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-21 20:07:17] [INFORMACIÓN] Iniciando Servidor en puerto: 8000 
+[2020-05-21 20:07:26] [INFORMACIÓN] Cliente conectado : 127.0.0.1:49690 
+[2020-05-21 20:07:26] [INFORMACIÓN] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-21 20:07:26] [INFORMACIÓN] Se necesitarán : 8 PROCESOS 
+[2020-05-21 20:07:26] [INFORMACIÓN] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9001 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9002 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9003 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9004 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9005 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9006 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9007 
+[2020-05-21 20:07:27] [INFORMACIÓN] Registrando en puerto : 9008 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9001 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Forzando la falla de un proceso 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9002 es : FALLA 
+[2020-05-21 20:07:27] [INFORMACIÓN] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-21 20:07:27] [INFORMACIÓN] Proceso auxiliar en port: 9009 
+[2020-05-21 20:07:27] [INFORMACIÓN] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9003 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9004 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9005 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9006 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9007 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Estado del puerto :9008 es : OK 
+[2020-05-21 20:07:27] [INFORMACIÓN] Finalizo de procesar la imagen 
+[2020-05-22 16:57:35] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 16:57:44] [INFO] Cliente conectado : kubernetes.docker.internal:51152 
+[2020-05-22 16:57:44] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 16:57:44] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 16:57:44] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 16:57:44] [INFO] Registrando en puerto : 9001 
+[2020-05-22 16:57:44] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 16:57:44] [INFO] Forzando la falla de un proceso 
+[2020-05-22 16:57:44] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 17:51:26] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 17:51:51] [INFO] Cliente conectado : kubernetes.docker.internal:51843 
+[2020-05-22 17:51:51] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 17:51:51] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 17:51:51] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 17:51:51] [INFO] Registrando en puerto : 9001 
+[2020-05-22 17:51:51] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 17:51:51] [INFO] Forzando la falla de un proceso 
+[2020-05-22 17:51:51] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 17:53:16] [INFO] Cliente conectado : kubernetes.docker.internal:51877 
+[2020-05-22 17:53:16] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 17:53:16] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 17:53:16] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 17:53:16] [INFO] Registrando en puerto : 9001 
+[2020-05-22 17:55:03] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 17:55:12] [INFO] Cliente conectado : kubernetes.docker.internal:51909 
+[2020-05-22 17:55:12] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 17:55:12] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 17:55:12] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 17:55:12] [INFO] Registrando en puerto : 9001 
+[2020-05-22 17:55:12] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 17:55:12] [INFO] Forzando la falla de un proceso 
+[2020-05-22 17:55:12] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 17:55:27] [INFO] Cliente conectado : kubernetes.docker.internal:51913 
+[2020-05-22 17:55:27] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 17:55:27] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 17:55:27] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 17:55:27] [INFO] Registrando en puerto : 9001 
+[2020-05-22 17:56:34] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 17:56:40] [INFO] Cliente conectado : kubernetes.docker.internal:51933 
+[2020-05-22 17:56:40] [INFO] El cliente desea procesar la imagen en  : 2 partes. 
+[2020-05-22 17:56:40] [INFO] Se necesitarÃ¡n : 2 PROCESOS 
+[2020-05-22 17:56:40] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 17:56:41] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 17:56:41] [INFO] Registrando en puerto : 9001 
+[2020-05-22 17:56:41] [INFO] Registrando en puerto : 9002 
+[2020-05-22 17:56:41] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 17:56:41] [INFO] Forzando la falla de un proceso 
+[2020-05-22 17:56:41] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 17:56:41] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 17:56:41] [INFO] Proceso auxiliar en port: 9003 
+[2020-05-22 17:56:41] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 17:56:41] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 17:56:50] [INFO] Cliente conectado : kubernetes.docker.internal:51938 
+[2020-05-22 17:56:50] [INFO] El cliente desea procesar la imagen en  : 2 partes. 
+[2020-05-22 17:56:50] [INFO] Se necesitarÃ¡n : 2 PROCESOS 
+[2020-05-22 17:56:50] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 17:56:50] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 17:56:50] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:00:00] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:00:41] [INFO] Cliente conectado : kubernetes.docker.internal:51971 
+[2020-05-22 18:00:41] [INFO] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-22 18:00:41] [INFO] Se necesitarÃ¡n : 4 PROCESOS 
+[2020-05-22 18:00:41] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:00:41] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:00:41] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:00:41] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:00:41] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:00:42] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:00:42] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:00:42] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:00:42] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:00:42] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:00:42] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:00:42] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:00:42] [INFO] Proceso auxiliar en port: 9005 
+[2020-05-22 18:00:42] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:00:42] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:00:42] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:00:42] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:00:45] [INFO] Cliente conectado : kubernetes.docker.internal:51980 
+[2020-05-22 18:00:45] [INFO] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-22 18:00:45] [INFO] Se necesitarÃ¡n : 4 PROCESOS 
+[2020-05-22 18:00:45] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:00:45] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:00:45] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:00:45] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:00:45] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:02:09] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:02:16] [INFO] Cliente conectado : kubernetes.docker.internal:52001 
+[2020-05-22 18:02:16] [INFO] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-22 18:02:16] [INFO] Se necesitarÃ¡n : 8 PROCESOS 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9005 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9006 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9007 
+[2020-05-22 18:02:16] [INFO] Registrando en puerto : 9008 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:02:16] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:02:16] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:02:16] [INFO] Proceso auxiliar en port: 9009 
+[2020-05-22 18:02:16] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9005 es : OK 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9006 es : OK 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9007 es : OK 
+[2020-05-22 18:02:16] [INFO] Estado del puerto :9008 es : OK 
+[2020-05-22 18:02:16] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:02:36] [INFO] Cliente conectado : kubernetes.docker.internal:52017 
+[2020-05-22 18:02:36] [INFO] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-22 18:02:36] [INFO] Se necesitarÃ¡n : 8 PROCESOS 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:02:36] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:03:32] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:03:38] [INFO] Cliente conectado : kubernetes.docker.internal:52069 
+[2020-05-22 18:03:38] [INFO] El cliente desea procesar la imagen en  : 16 partes. 
+[2020-05-22 18:03:38] [INFO] Se necesitarÃ¡n : 16 PROCESOS 
+[2020-05-22 18:03:38] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 8 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 9 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 10 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 11 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 12 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 13 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 14 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Crendo nueva : 15 instancia de ServidorImpl 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9005 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9006 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9007 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9008 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9009 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9010 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9011 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9012 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9013 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9014 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9015 
+[2020-05-22 18:03:39] [INFO] Registrando en puerto : 9016 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:03:39] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:03:39] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:03:39] [INFO] Proceso auxiliar en port: 9017 
+[2020-05-22 18:03:39] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9005 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9006 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9007 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9008 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9009 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9010 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9011 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9012 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9013 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9014 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9015 es : OK 
+[2020-05-22 18:03:39] [INFO] Estado del puerto :9016 es : OK 
+[2020-05-22 18:03:39] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:03:43] [INFO] Cliente conectado : kubernetes.docker.internal:52089 
+[2020-05-22 18:03:43] [INFO] El cliente desea procesar la imagen en  : 16 partes. 
+[2020-05-22 18:03:43] [INFO] Se necesitarÃ¡n : 16 PROCESOS 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 8 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 9 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 10 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 11 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 12 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 13 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 14 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Crendo nueva : 15 instancia de ServidorImpl 
+[2020-05-22 18:03:43] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:21:48] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:24:11] [INFO] Cliente conectado : kubernetes.docker.internal:52303 
+[2020-05-22 18:24:11] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 18:24:11] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 18:24:11] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:24:12] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:24:12] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:24:12] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:24:12] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:24:56] [INFO] Cliente conectado : kubernetes.docker.internal:52311 
+[2020-05-22 18:24:56] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 18:24:56] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 18:24:56] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:24:56] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:26:42] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:27:01] [INFO] Cliente conectado : kubernetes.docker.internal:52339 
+[2020-05-22 18:27:01] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 18:27:01] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 18:27:01] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:27:01] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:27:01] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:27:01] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:27:01] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:28:23] [INFO] Cliente conectado : kubernetes.docker.internal:52355 
+[2020-05-22 18:28:23] [INFO] El cliente desea procesar la imagen en  : 1 partes. 
+[2020-05-22 18:28:23] [INFO] Se necesitarÃ¡n : 1 PROCESOS 
+[2020-05-22 18:28:23] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:28:23] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:32:44] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:33:01] [INFO] Cliente conectado : kubernetes.docker.internal:52423 
+[2020-05-22 18:33:01] [INFO] El cliente desea procesar la imagen en  : 2 partes. 
+[2020-05-22 18:33:01] [INFO] Se necesitarÃ¡n : 2 PROCESOS 
+[2020-05-22 18:33:01] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:33:02] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:33:02] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:33:02] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:33:02] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:33:02] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:33:02] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:33:02] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:33:02] [INFO] Proceso auxiliar en port: 9003 
+[2020-05-22 18:33:02] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:33:02] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:33:38] [INFO] Cliente conectado : kubernetes.docker.internal:52434 
+[2020-05-22 18:33:38] [INFO] El cliente desea procesar la imagen en  : 2 partes. 
+[2020-05-22 18:33:38] [INFO] Se necesitarÃ¡n : 2 PROCESOS 
+[2020-05-22 18:33:38] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:33:38] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:33:38] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:37:03] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:37:13] [INFO] Cliente conectado : kubernetes.docker.internal:52499 
+[2020-05-22 18:37:13] [INFO] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-22 18:37:13] [INFO] Se necesitarÃ¡n : 4 PROCESOS 
+[2020-05-22 18:37:13] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:37:13] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:37:13] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:37:13] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:37:13] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:37:13] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:37:13] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:37:13] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:37:13] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:37:13] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:37:13] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:37:13] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:37:13] [INFO] Proceso auxiliar en port: 9005 
+[2020-05-22 18:37:13] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:37:13] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:37:13] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:37:13] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:37:48] [INFO] Cliente conectado : kubernetes.docker.internal:52515 
+[2020-05-22 18:37:48] [INFO] El cliente desea procesar la imagen en  : 4 partes. 
+[2020-05-22 18:37:48] [INFO] Se necesitarÃ¡n : 4 PROCESOS 
+[2020-05-22 18:37:48] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:37:48] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:37:48] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:37:48] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:37:48] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:41:19] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:41:25] [INFO] Cliente conectado : kubernetes.docker.internal:52591 
+[2020-05-22 18:41:25] [INFO] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-22 18:41:25] [INFO] Se necesitarÃ¡n : 8 PROCESOS 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9005 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9006 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9007 
+[2020-05-22 18:41:25] [INFO] Registrando en puerto : 9008 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:41:25] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:41:25] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:41:25] [INFO] Proceso auxiliar en port: 9009 
+[2020-05-22 18:41:25] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9005 es : OK 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9006 es : OK 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9007 es : OK 
+[2020-05-22 18:41:25] [INFO] Estado del puerto :9008 es : OK 
+[2020-05-22 18:41:25] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:42:40] [INFO] Cliente conectado : kubernetes.docker.internal:52615 
+[2020-05-22 18:42:40] [INFO] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-22 18:42:40] [INFO] Se necesitarÃ¡n : 8 PROCESOS 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:42:40] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:44:35] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:44:42] [INFO] Cliente conectado : kubernetes.docker.internal:52688 
+[2020-05-22 18:44:42] [INFO] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-22 18:44:42] [INFO] Se necesitarÃ¡n : 8 PROCESOS 
+[2020-05-22 18:44:42] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9005 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9006 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9007 
+[2020-05-22 18:44:43] [INFO] Registrando en puerto : 9008 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:44:43] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:44:43] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:44:43] [INFO] Proceso auxiliar en port: 9009 
+[2020-05-22 18:44:43] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9005 es : OK 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9006 es : OK 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9007 es : OK 
+[2020-05-22 18:44:43] [INFO] Estado del puerto :9008 es : OK 
+[2020-05-22 18:44:43] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:45:16] [INFO] Cliente conectado : kubernetes.docker.internal:52709 
+[2020-05-22 18:45:16] [INFO] El cliente desea procesar la imagen en  : 8 partes. 
+[2020-05-22 18:45:16] [INFO] Se necesitarÃ¡n : 8 PROCESOS 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:45:16] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:46:34] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:46:40] [INFO] Cliente conectado : kubernetes.docker.internal:52754 
+[2020-05-22 18:46:40] [INFO] El cliente desea procesar la imagen en  : 16 partes. 
+[2020-05-22 18:46:40] [INFO] Se necesitarÃ¡n : 16 PROCESOS 
+[2020-05-22 18:46:40] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 8 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 9 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 10 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 11 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 12 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 13 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 14 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Crendo nueva : 15 instancia de ServidorImpl 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9005 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9006 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9007 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9008 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9009 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9010 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9011 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9012 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9013 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9014 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9015 
+[2020-05-22 18:46:41] [INFO] Registrando en puerto : 9016 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:46:41] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:46:41] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:46:41] [INFO] Proceso auxiliar en port: 9017 
+[2020-05-22 18:46:41] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9005 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9006 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9007 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9008 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9009 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9010 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9011 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9012 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9013 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9014 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9015 es : OK 
+[2020-05-22 18:46:41] [INFO] Estado del puerto :9016 es : OK 
+[2020-05-22 18:46:41] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:47:11] [INFO] Cliente conectado : kubernetes.docker.internal:52780 
+[2020-05-22 18:47:11] [INFO] El cliente desea procesar la imagen en  : 16 partes. 
+[2020-05-22 18:47:11] [INFO] Se necesitarÃ¡n : 16 PROCESOS 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 8 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 9 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 10 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 11 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 12 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 13 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 14 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Crendo nueva : 15 instancia de ServidorImpl 
+[2020-05-22 18:47:11] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:53:11] [INFO] Iniciando Servidor en puerto: 8000 
+[2020-05-22 18:53:22] [INFO] Cliente conectado : kubernetes.docker.internal:52936 
+[2020-05-22 18:53:22] [INFO] El cliente desea procesar la imagen en  : 64 partes. 
+[2020-05-22 18:53:22] [INFO] Se necesitarÃ¡n : 64 PROCESOS 
+[2020-05-22 18:53:22] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 8 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 9 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 10 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 11 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 12 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 13 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 14 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 15 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 16 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 17 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 18 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 19 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 20 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 21 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 22 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 23 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 24 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 25 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 26 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 27 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 28 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 29 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 30 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 31 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 32 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 33 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 34 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 35 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 36 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 37 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 38 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 39 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 40 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 41 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 42 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 43 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 44 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 45 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 46 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 47 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 48 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 49 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 50 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 51 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 52 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 53 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 54 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 55 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 56 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 57 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 58 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 59 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 60 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 61 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 62 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Crendo nueva : 63 instancia de ServidorImpl 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9001 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9002 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9003 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9004 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9005 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9006 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9007 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9008 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9009 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9010 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9011 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9012 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9013 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9014 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9015 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9016 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9017 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9018 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9019 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9020 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9021 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9022 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9023 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9024 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9025 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9026 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9027 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9028 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9029 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9030 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9031 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9032 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9033 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9034 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9035 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9036 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9037 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9038 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9039 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9040 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9041 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9042 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9043 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9044 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9045 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9046 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9047 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9048 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9049 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9050 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9051 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9052 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9053 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9054 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9055 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9056 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9057 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9058 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9059 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9060 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9061 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9062 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9063 
+[2020-05-22 18:53:23] [INFO] Registrando en puerto : 9064 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9001 es : OK 
+[2020-05-22 18:53:23] [INFO] Forzando la falla de un proceso 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9002 es : FALLA 
+[2020-05-22 18:53:23] [INFO] Fallo un proceso, se solicita proceso auxiliar 
+[2020-05-22 18:53:23] [INFO] Proceso auxiliar en port: 9065 
+[2020-05-22 18:53:23] [INFO] Se proceso parte de imagen en proceso auxiliar 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9003 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9004 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9005 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9006 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9007 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9008 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9009 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9010 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9011 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9012 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9013 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9014 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9015 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9016 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9017 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9018 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9019 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9020 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9021 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9022 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9023 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9024 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9025 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9026 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9027 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9028 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9029 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9030 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9031 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9032 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9033 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9034 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9035 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9036 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9037 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9038 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9039 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9040 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9041 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9042 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9043 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9044 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9045 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9046 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9047 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9048 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9049 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9050 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9051 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9052 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9053 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9054 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9055 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9056 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9057 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9058 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9059 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9060 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9061 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9062 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9063 es : OK 
+[2020-05-22 18:53:23] [INFO] Estado del puerto :9064 es : OK 
+[2020-05-22 18:53:23] [INFO] Finalizo de procesar la imagen 
+[2020-05-22 18:54:01] [INFO] Cliente conectado : kubernetes.docker.internal:53008 
+[2020-05-22 18:54:01] [INFO] El cliente desea procesar la imagen en  : 64 partes. 
+[2020-05-22 18:54:01] [INFO] Se necesitarÃ¡n : 64 PROCESOS 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 0 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 1 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 2 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 3 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 4 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 5 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 6 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 7 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 8 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 9 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 10 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 11 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 12 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 13 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 14 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 15 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 16 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 17 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 18 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 19 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 20 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 21 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 22 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 23 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 24 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 25 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 26 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 27 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 28 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 29 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 30 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 31 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 32 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 33 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 34 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 35 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 36 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 37 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 38 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 39 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 40 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 41 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 42 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 43 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 44 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 45 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 46 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 47 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 48 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 49 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 50 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 51 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 52 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 53 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 54 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 55 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 56 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 57 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 58 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 59 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 60 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 61 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 62 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Crendo nueva : 63 instancia de ServidorImpl 
+[2020-05-22 18:54:01] [INFO] Registrando en puerto : 9001 

@@ -1,0 +1,387 @@
+[2020-05-06 18:08:11] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 18:08:12] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 18:08:30] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:08:30] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:08:30] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:08:30] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 18:08:30] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 18:08:31] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:08:31] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:08:31] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:08:31] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 18:08:31] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 18:08:31] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 18:08:32] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 18:08:32] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:08:32] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:08:32] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:27:58] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 18:27:59] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 18:28:01] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:01] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:01] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:01] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 18:28:01] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 18:28:02] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:02] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:02] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:02] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 18:28:02] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 18:28:02] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 18:28:03] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 18:28:03] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:03] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:03] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:10] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:10] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:10] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:10] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 18:28:10] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:11] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:12] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 18:28:12] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:28:12] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:28:12] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:24] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 18:50:24] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 18:50:27] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:50:27] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:27] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:27] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 18:50:27] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 18:50:28] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 18:50:29] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 18:50:31] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 18:50:31] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:50:31] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:50:31] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:52:59] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 18:53:00] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 18:55:09] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 18:55:09] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 18:55:10] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 18:55:10] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:55:10] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:55:10] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:02] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 18:57:03] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 18:57:06] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:57:06] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:06] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:06] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 18:57:06] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 18:57:06] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 18:57:07] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 18:57:09] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 18:57:09] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 18:57:09] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 18:57:09] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:14:46] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:14:47] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:15:06] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:15:07] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:15:10] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:15:10] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:15:10] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:15:10] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:15:10] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:15:11] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:15:11] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:15:11] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:15:11] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 19:15:11] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 19:15:11] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 19:15:12] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:15:12] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:15:12] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:15:12] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:10] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:29:10] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:29:13] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:29:13] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:13] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:13] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:29:13] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:55] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:29:55] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:29:58] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 19:29:58] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 19:29:59] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:29:59] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:29:59] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:29:59] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:38:18] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:38:18] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:38:21] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 19:38:21] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 19:38:22] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:38:22] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:38:22] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:38:22] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:41:10] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:41:11] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:41:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Extraccion Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 19:41:14] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 19:41:15] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:41:15] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:41:15] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:41:15] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:48:05] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:48:06] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:48:40] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:48:41] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:48:45] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:48:45] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:48:45] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:48:45] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:48:45] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:48:46] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:48:46] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:48:46] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:48:47] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:48:47] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:48:47] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:48:47] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:23] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:49:23] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:49:27] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:27] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:28] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:49:28] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:49:28] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:28] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:49:56] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 19:49:56] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 19:50:00] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:50:00] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:50:00] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:50:00] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Operacion Deposito Cliente 1001 
+[2020-05-06 19:50:00] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 19:50:01] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:50:01] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:50:01] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 19:50:02] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 19:50:02] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 -> Consulta Saldo Cliente 1001 
+[2020-05-06 19:50:02] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 19:50:02] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:02:45] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 20:02:46] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 20:02:50] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:02:50] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:02:51] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 20:02:51] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:02:51] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:02:51] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:13] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 20:58:14] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 20:58:17] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:58:17] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:17] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:17] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 20:58:17] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 20:58:17] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:58:18] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 20:58:18] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:18] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:18] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-06 20:58:18] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 20:58:18] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:58:20] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 20:58:20] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:20] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:58:20] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:20] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:58:20] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:28] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 20:59:28] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 20:59:31] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:59:31] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:31] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:31] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 20:59:31] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 20:59:32] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:59:33] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 20:59:33] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:33] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:33] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-06 20:59:33] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 20:59:33] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:59:35] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 20:59:35] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:35] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 20:59:35] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:35] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 20:59:35] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:02:44] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 21:02:45] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 21:03:35] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:03:35] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:03:35] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:03:35] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 21:03:35] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 21:03:35] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:03:36] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 21:03:36] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:03:36] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:03:36] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-06 21:03:36] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 21:03:38] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 21:04:17] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 21:04:17] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 21:04:20] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:04:20] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:04:20] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:04:20] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 21:04:20] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 21:04:21] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:04:21] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:04:21] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:04:22] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 21:11:50] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 21:11:50] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 21:11:54] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:11:54] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:11:54] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:11:54] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 21:11:54] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 21:11:54] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:11:55] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 21:11:55] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:11:55] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:11:55] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-06 21:11:55] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 21:11:57] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-06 21:18:42] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-06 21:18:43] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-06 21:18:51] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:18:51] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:18:51] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:18:51] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-06 21:18:51] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-06 21:18:52] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-06 21:18:53] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-06 21:18:53] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-06 21:18:53] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-06 21:18:53] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-06 21:18:53] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-06 21:18:55] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-10 16:55:11] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-10 16:55:11] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-10 16:55:15] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-10 16:55:15] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-10 16:55:15] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-10 16:55:15] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-10 16:55:15] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-10 16:55:16] [INFORMACIÓN] Mensaje Recibido de 192.168.0.28 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-10 16:55:16] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-10 16:55:16] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-10 16:55:17] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-22 15:53:39] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-22 15:53:40] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-22 15:53:49] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-22 15:53:49] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-22 15:53:49] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-22 15:53:49] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-22 15:53:49] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-22 15:53:50] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-22 15:53:51] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-22 15:53:51] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-22 15:53:51] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-22 15:53:51] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-22 15:53:51] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-22 15:53:53] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 
+[2020-05-22 15:54:47] [INFORMACIÓN] Servidor Terminado 
+[2020-05-22 16:51:39] [INFORMACIÓN] Iniciando Servidor 
+[2020-05-22 16:51:40] [INFORMACIÓN] Servicio Iniciado 
+[2020-05-22 16:51:47] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 1) -> Consulta Saldo Cliente 1001 
+[2020-05-22 16:51:47] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-22 16:51:47] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-22 16:51:47] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 1) -> Operacion Deposito Cliente 1001 
+[2020-05-22 16:51:47] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Deposito Cliente 1001 
+[2020-05-22 16:51:47] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 2) -> Consulta Saldo Cliente 1001 
+[2020-05-22 16:51:49] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Deposito Cliente 1001 
+[2020-05-22 16:51:49] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Consulta Cliente 1001 
+[2020-05-22 16:51:49] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Consulta Cliente 1001 
+[2020-05-22 16:51:49] [INFORMACIÓN] Mensaje Recibido de 192.168.56.1 (Persona 2) -> Operacion Extraccion Cliente 1001 
+[2020-05-22 16:51:49] [INFORMACIÓN] Operacion Interna  -> Entro Operacion Extraccion Cliente 1001 
+[2020-05-22 16:51:50] [INFORMACIÓN] Operacion Interna  -> Salgo Operacion Extraccion Cliente 1001 

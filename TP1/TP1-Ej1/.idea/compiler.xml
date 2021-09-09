@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TP1-Ej1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TP1-Ej2" target="9" />
+      <module name="TP1-Ej3" target="9" />
+      <module name="TP1-Ej4" target="9" />
+      <module name="TP1-Ej5" target="9" />
+      <module name="TP1-Ej6" target="9" />
+      <module name="TP1-Ej7" target="9" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

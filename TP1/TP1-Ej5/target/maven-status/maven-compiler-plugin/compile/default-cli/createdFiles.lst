@@ -1,0 +1,5 @@
+api_model\Clima.class
+servidor\Servidor.class
+cliente\Cliente.class
+servidor\ServidorImplements.class
+RMI\RemoteInterface.class

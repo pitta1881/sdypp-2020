@@ -1,0 +1,9 @@
+org\example\tareasgenericas\NumAleatorio.class
+org\example\log\Log.class
+org\example\servidor\ServidorImplementer.class
+org\example\cliente\Cliente.class
+org\example\rmi\RemoteInterface.class
+org\example\rmi\Tarea.class
+org\example\log\LogVolatil.class
+org\example\servidor\Servidor.class
+org\example\tareasgenericas\NumAleatorioPrimo.class

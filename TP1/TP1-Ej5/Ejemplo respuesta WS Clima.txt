@@ -1,0 +1,17 @@
+{
+	"coord":{"lon":-59.1,"lat":-34.57},
+	"weather":[{"id":500,"main":"Rain","description":"light rain","icon":"10d"}],
+	"base":"stations",
+	"main":{"temp":296.14,"feels_like":294.89,"temp_min":295.15,"temp_max":297.04,"pressure":1017,"humidity":73},"visibility":10000,
+	"wind":{"speed":5.7,"deg":90},
+	"rain":{"3h":0.2},
+	"clouds":{"all":93},
+	"dt":1585682461,
+	"sys":{"type":1,"id":8232,"country":"AR","sunrise":1585649301,"sunset":1585691529},
+	"timezone":-10800,
+	"id":3430988,
+	"name":"Luj�n",
+	"cod":200
+}
+
+
